@@ -1,0 +1,6 @@
+.pagestyle{
+    background-color: green;
+}
+:global(.test){
+    background-color: blue;
+}

@@ -1,0 +1,76 @@
+{
+  "citiesdata": [
+    {
+      "cityname": "Berlin",
+      "country": "Germany",
+      "emoji": "/src/assets/germany.png",
+      "date": "Friday, 25 August 2023",
+      "note": "Great Experience 💚",
+      "positions": {
+        "lat": 39.3999,
+        "lang": 8.2245
+      },
+      "id": 7897
+    },
+    {
+      "cityname": "Abanilla",
+      "country": "Spain",
+      "date": "2023-09-04T18:30:00.000Z",
+      "note": "great",
+      "positions": {
+        "lat": "38.22091976683121",
+        "lang": "-1.0437011718750002"
+      },
+      "id": 7899
+    },
+    {
+      "cityname": "Italy",
+      "country": "Italy",
+      "date": "2023-07-30T18:30:00.000Z",
+      "note": "hi",
+      "positions": {
+        "lat": null,
+        "lang": null
+      },
+      "id": 7900
+    },
+    {
+      "cityname": "Chidambaram",
+      "country": "India",
+      "date": "2023-09-03T18:30:00.000Z",
+      "note": "hi",
+      "positions": {
+        "lat": null,
+        "lang": null
+      },
+      "id": 7901
+    },
+    {
+      "cityname": "Hamar",
+      "country": "Norway",
+      "date": "2023-08-28T18:30:00.000Z",
+      "note": "hi",
+      "positions": {
+        "lat": null,
+        "lang": null
+      },
+      "id": 7904
+    },
+    {
+      "cityname": "Chidambaram",
+      "country": "India",
+      "date": "2023-09-03T18:30:00.000Z",
+      "note": "hi",
+      "positions": {},
+      "id": 7905
+    },
+    {
+      "cityname": "Chennai",
+      "country": "India",
+      "date": "2023-08-27T18:30:00.000Z",
+      "note": "ffds",
+      "positions": {},
+      "id": 7906
+    }
+  ]
+}

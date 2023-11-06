@@ -1,0 +1,29 @@
+.topnavbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 43px;
+    margin-left: 45em;
+  }
+  .worldimg{
+    width: 50px;
+    height: 50px;
+  }
+  .topbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  .headersec{
+    display: flex;
+    position: relative;
+    /* top: -8em; */
+    width: 1300px;
+    justify-content: space-around;
+  }
+  .login{
+    color: #fff;
+    font-weight: bold;
+  }
+  

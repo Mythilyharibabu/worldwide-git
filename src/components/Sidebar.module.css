@@ -1,0 +1,15 @@
+.sidebar{
+    width: 700px;
+    background-color: dimgrey;
+    color: white;
+}
+.headerpart{
+    height: 700px;
+    position: relative;
+}
+.footerbar{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}

@@ -1,0 +1,30 @@
+.emoji{
+    width:35px;
+}
+.countrydetail{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    width: 400px;
+    height: 43px;
+    align-items: center;
+    border-radius: 23px;
+    border-left: 15px solid green;
+    margin-left: -44px;
+    margin-bottom: 15px;
+    gap:20px;
+}
+.deletebtn{
+    width: 20px;
+    height: 34px;
+    border-radius: 23px;
+    position: relative;
+    background-color: black;
+}
+.crossitem{
+    position: absolute;
+    top: 5px;
+    left: 14px;
+    color: #ffff;
+    font-weight: bold;
+}

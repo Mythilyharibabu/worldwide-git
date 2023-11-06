@@ -1,0 +1,42 @@
+
+.fontwhite {
+  color: #fff;
+}
+.worldimg{
+  width: 50px;
+  height: 50px;
+}
+.text {
+  background: -webkit-linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.MuiButton-containedSizeSmall _buttonbg_2a78i_33{
+ background-color:  -webkit-linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
+ color: #fff;
+}
+
+
+.adventure{
+  position: relative;
+  bottom: -4em;
+}
+.cta{
+  display: inline-flex;
+    align-items: center;
+    justify-content: center;
+      position: relative;
+      box-sizing: border-box;
+      -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+      letter-spacing: 0.02857em;
+      text-transform: uppercase;
+      min-width: 64px;
+      padding: 6px 16px;
+      border-radius: 4px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+      color: #fff;
+      background: linear-gradient(45deg, #a4508b 30%, #5f0a87 90%) ;
+      font-weight: bold;
+    }
+  

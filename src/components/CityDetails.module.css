@@ -1,0 +1,19 @@
+.aboutcity{
+    background-color: grey;
+    width: 400px;
+    margin: auto;
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 44px;
+}
+.flags{
+    text-align: left;
+    display: flex;
+    justify-content: flex-start;
+    gap: 17px;
+    align-items: center;
+}
+.flagsize{
+    width: 44px;
+    height: 25px;
+}

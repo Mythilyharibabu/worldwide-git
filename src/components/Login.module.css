@@ -1,0 +1,24 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    color: white;
+    background: linear-gradient(45deg, #a4508b 30%, #5f0a87 90%);
+    align-items: center;
+    justify-content: center;
+    border-radius: 28px;
+}
+.othersection{
+    padding: 20px;
+}
+.loginbtn{
+    margin: 20px;
+    background: linear-gradient(45deg, #a4508b 30%, #5f0a87 90%);
+    color: white;
+}
+.message{
+    color:red;
+    font-weight: bold;
+}

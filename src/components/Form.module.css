@@ -1,0 +1,14 @@
+.formstyle{
+    padding: 27px;
+    background-color: grey;
+    width: 51%;
+    margin: auto;
+}
+.primary{
+    background-color: green;
+    color:#fff;
+    font-weight: bold;
+}
+.btn{
+    margin: 10px;
+}
